@@ -1,0 +1,30 @@
+Usuario:
+
+Usuario
+Contraseña
+Carros(matricula)
+Telefono
+
+Carro:
+matricula
+modelo 
+marca
+color
+
+Servicio:
+
+fecha
+tipo(reparacion,observacion,cambio,ajuste,reclamo,fabricacion)
+descripcion
+Gasto
+Cobro_trabajo
+Fecha inicio
+Fecha finalizacion
+
+Administrador:
+
+Ingreso semanal
+Ingreso mensual
+Ingreso anual
+Reclamos
+Servicio
